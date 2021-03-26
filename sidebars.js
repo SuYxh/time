@@ -1,8 +1,56 @@
 module.exports = {
+  // 
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
+      label: 'work',
+      items: [
+        'work/index',
+      ],
+    },
+    // css技巧
+    {
+      type: 'category',
+      label: 'CSS',
+      items: [
+        'cssdoc/link',
+      ],
+    },
+    // js面向对象
+    {
+      type: 'category',
+      label: '面向对象',
+      items: [
+        'object/link',
+      ],
+    },
+    // vue
+    {
+      type: 'category',
+      label: 'Vue',
+      items: [
+        'vue/link',
+      ],
+    },
+    // 设计模式
+    {
+      type: 'category',
+      label: '设计模式',
+      items: [
+        'patterns/link',
+      ],
+    },
+    // 数据结构/算法
+    {
+      type: 'category',
+      label: '数据结构',
+      items: [
+        'datastructure/link',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'example',
       items: [
         'getting-started',
         'create-a-page',
@@ -12,6 +60,7 @@ module.exports = {
         'thank-you',
       ],
     },
+
     /* 
         {
           type: 'category',
