@@ -23,3 +23,38 @@ Feel free to play around and edit this post as much you like.
 ```
 
 A new blog post is now available at `http://localhost:3000/blog/greetings`.
+
+
+```jsx
+import React from 'react';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
+const Hello = () => {
+  const {siteConfig} = useDocusaurusContext();
+  const {title, tagline} = siteConfig;
+
+  return <div>{`${title} · ${tagline}`}</div>;
+};
+```
+
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+
+:::note
+<Highlight color="#25c2a0">author:</Highlight> <Highlight color="#1877F2">YangXinHao</Highlight>
+<Hello />
+
+
+Write **Markdown** alongside  _JSX_!
+:::
