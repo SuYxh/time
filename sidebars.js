@@ -30,6 +30,8 @@ module.exports = {
       label: 'Vue',
       items: [
         'vue/link',
+        'vue/zjtx',
+
       ],
     },
     // React
