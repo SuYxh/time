@@ -32,6 +32,22 @@ module.exports = {
         'vue/link',
       ],
     },
+    // React
+    {
+      type: 'category',
+      label: 'React',
+      items: [
+        'react/link',
+      ],
+    },
+    // 前端工程化
+    {
+      type: 'category',
+      label: '工程化',
+      items: [
+        'construction/link',
+      ],
+    },
     // 设计模式
     {
       type: 'category',
@@ -46,6 +62,14 @@ module.exports = {
       label: '数据结构',
       items: [
         'datastructure/link',
+      ],
+    },
+    // 面试
+    {
+      type: 'category',
+      label: '面试',
+      items: [
+        'interview/link',
       ],
     },
     {
