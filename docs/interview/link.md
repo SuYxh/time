@@ -50,6 +50,11 @@ https://www.bilibili.com/video/BV1qK4y1b7my?t=19
 
 http://huasenjio.top/article/interview#directory08344495196740787129
 
+
+6、高频前端面试问题及答案整理
+
+https://mp.weixin.qq.com/s/cLyeOIWmqzCXu_-KjPTFBg    ![原文链接](https://blog.csdn.net/p358278505/article/details/78718283)
+
 ### 珠峰视频up
 
 1、前端程序猿 （超全）

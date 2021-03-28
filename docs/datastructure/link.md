@@ -36,7 +36,15 @@ https://www.bilibili.com/video/BV1wo4y1o71s?t=7
 
 https://space.bilibili.com/455848380
 
+6、lucifer
+lucifer 的博客:
+https://lucifer.ren/blog/
 
+【LeetCode题解】:
+https://github.com/azl397985856/leetcode
+
+91天学算法:
+https://lucifer.ren/blog/2020/05/23/91-algo/
 
 
 ### 掘金

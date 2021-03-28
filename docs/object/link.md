@@ -21,3 +21,28 @@ https://juejin.cn/post/6844903959283367950#heading-16
 
 https://juejin.cn/post/6844903838449664013#heading-4
 
+3、手写函数
+https://mp.weixin.qq.com/s/ld6l9lvu45SDLsHj76Z5Yg
+
+4、 Map最佳实践 什么时候适合使用 Map 而不是 Object
+
+https://mp.weixin.qq.com/s/DDjn3kGu5IaYwh2FJBzCTg
+
+5、3种前端实现.md文件转换成.html文件的方式
+
+https://mp.weixin.qq.com/s/V3NenoY-xpTf7hkWSeA76Q  【http://www.fly63.com/article/detial/9641】
+
+6、从应用场景助你理解函数防抖与函数节流
+
+https://mp.weixin.qq.com/s/xrEsGHvrN3H-XhQkTKZVWg
+
+7、深入理解JavaScript之立即调用的函数表达式
+
+https://mp.weixin.qq.com/s/kyhqpN4ED8G9HLOS3dKzeA
+
+8、开发中经常遇到的JavaScript问题整理(超实用)
+
+https://mp.weixin.qq.com/s/maKqLqPKkcEll98y0SBiUA  ![原文链接](https://chengyuming.cn/views/basis/issue.html)
+
+
+

@@ -6,6 +6,9 @@ id: link
 
 ### Vue 2.x
 
+1、Vue 项目一些常见问题的解决方案
+
+https://mp.weixin.qq.com/s/qVwwCcjD7ow7uAeCsEpKWg
 
 
 ### Vue 3.0
@@ -23,7 +26,9 @@ https://github.com/weizhanzhan/vue3-ts-template-h5
 
 https://www.bilibili.com/video/BV1xr4y1A7H9?t=34
 
+4、Vue3.0 新特性以及使用变更总结(实际工作用到的)
 
+https://mp.weixin.qq.com/s/PVdOJUxn4bvfNOk0nCXGoA
 
 ### 源码
 1、手写vue-react源码

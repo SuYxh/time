@@ -73,6 +73,7 @@ module.exports = {
       label: '面试',
       items: [
         'interview/link',
+        'interview/wx',
       ],
     },
     {

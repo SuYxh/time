@@ -4,16 +4,13 @@ id: link
 ---
 
 
-### 数据结构
+### CSS技巧
 
-1、js数据结构（coderwhy）
+1、十几个CSS高级常见技巧汇总（虚线框、三角形、优惠券卡券、滚动条、多行溢出...）
 
-https://github.com/XPoet/js-data-structures-and-algorithms/tree/master/assets/doc
+https://mp.weixin.qq.com/s/WkCjMAsQ5gS80XrAGHkUzg   ![原文链接](https://blog.csdn.net/weixin_41556756/article/details/114196921)
 
 
+2、1.5 万字 CSS 基础拾遗（核心知识、常见需求）
 
-### 算法
-
-1、jslaobi-leetcode-js
-
-https://github.com/jslaobi/jslaobi-leetcode-js/blob/master/0002.AddTwoNumbers.js
+https://mp.weixin.qq.com/s/DipD_4gTQGc8286tG7Oxng
