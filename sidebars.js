@@ -19,9 +19,10 @@ module.exports = {
     // js面向对象
     {
       type: 'category',
-      label: '面向对象',
+      label: 'JavaScript',
       items: [
         'object/link',
+        'object/es6',
       ],
     },
     // vue
