@@ -5,7 +5,7 @@ module.exports = {
       type: 'category',
       label: 'work',
       items: [
-        'work/index',
+        'work/2021-work',
       ],
     },
     // css技巧
