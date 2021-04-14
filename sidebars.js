@@ -70,7 +70,7 @@ module.exports = {
     // 面试
     {
       type: 'category',
-      label: '面试',
+      label: 'interview',
       items: [
         'interview/link',
         'interview/wx',
