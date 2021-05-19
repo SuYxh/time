@@ -37,6 +37,8 @@ https://www.bilibili.com/video/BV1Rt4y1z7Mk
 
 2、从零实现Vue3.0响应式源码(正式版)
 
+https://www.bilibili.com/video/BV1nE411d7eW
+
 https://www.bilibili.com/video/BV1Ra4y1v72x?t=2
 
 https://www.bilibili.com/video/BV1Jo4y1R7av?p=5
