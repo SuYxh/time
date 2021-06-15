@@ -60,4 +60,11 @@ https://zhuanlan.zhihu.com/p/81234278
 
 
 
+12、15道高频js编程题
 
+https://juejin.cn/post/6953251054637187080#heading-14
+
+
+13、淘宝前端是怎么做优化？如何高效书写 JavaScript ？提高 JS 性能有哪些骚
+
+https://www.bilibili.com/video/BV1NK4y1S7aj?p=32&spm_id_from=pageDriver
